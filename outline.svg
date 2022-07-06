@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xl="http://www.w3.org/1999/xlink" viewBox="313.5 265 697 321.5" width="697" height="321.5">
+  <defs>
+    <filter id="Shadow" filterUnits="userSpaceOnUse" x="243.8" y="232.85">
+      <feGaussianBlur in="SourceAlpha" result="blur" stdDeviation="1.308"/>
+      <feFlood flood-color="#cdcdcd" flood-opacity=".5" result="flood"/>
+      <feComposite in="flood" in2="blur" operator="in"/>
+    </filter>
+    <clipPath id="inner_stroke_clip_path">
+      <path d="M 594.5495 385.5 L 644.0495 385.5 C 646.25864 385.5 648.0495 387.29086 648.0495 389.5 L 648.0495 403.5 C 648.0495 405.70915 646.25864 407.5 644.0495 407.5 L 594.5495 407.5 C 592.34036 407.5 590.5495 405.70915 590.5495 403.5 L 590.5495 389.5 C 590.5495 387.29086 592.34036 385.5 594.5495 385.5 Z"/>
+    </clipPath>
+    <clipPath id="inner_stroke_clip_path_2">
+      <path d="M 521.656 432.5 L 644.0495 432.5 C 646.25864 432.5 648.0495 434.29086 648.0495 436.5 L 648.0495 450.5 C 648.0495 452.70915 646.25864 454.5 644.0495 454.5 L 521.656 454.5 C 519.44686 454.5 517.656 452.70915 517.656 450.5 L 517.656 436.5 C 517.656 434.29086 519.44686 432.5 521.656 432.5 Z"/>
+    </clipPath>
+    <clipPath id="inner_stroke_clip_path_3">
+      <path d="M 358 385.5 L 446.844 385.5 C 452.36685 385.5 456.844 389.97715 456.844 395.5 L 456.844 397.5 C 456.844 403.02286 452.36685 407.5 446.844 407.5 L 358 407.5 C 352.47715 407.5 348 403.02286 348 397.5 L 348 395.5 C 348 389.97715 352.47715 385.5 358 385.5 Z"/>
+    </clipPath>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -4 10 8" markerWidth="10" markerHeight="8" color="black">
+      <g>
+        <path d="M 8 0 L 0 -3 L 0 3 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <clipPath id="inner_stroke_clip_path_6">
+      <path d="M 479.27475 385.5 L 568.11875 385.5 C 573.6416 385.5 578.11875 389.97715 578.11875 395.5 L 578.11875 397.5 C 578.11875 403.02286 573.6416 407.5 568.11875 407.5 L 479.27475 407.5 C 473.7519 407.5 469.27475 403.02286 469.27475 397.5 L 469.27475 395.5 C 469.27475 389.97715 473.7519 385.5 479.27475 385.5 Z"/>
+    </clipPath>
+  </defs>
+  <g id="キャンバス______1" fill-opacity="1" stroke="none" stroke-opacity="1" stroke-dasharray="none" fill="none">
+    <title>キャンバス 1</title>
+    <rect fill="white" x="313.5" y="265" width="697" height="321.5"/>
+    <g id="キャンバス______1_レイヤー_1">
+      <title>レイヤー 1</title>
+      <g id="Graphic_7_shadow" filter="url(#Shadow)">
+        <path d="M 594.5495 385.5 L 644.0495 385.5 C 646.25864 385.5 648.0495 387.29086 648.0495 389.5 L 648.0495 403.5 C 648.0495 405.70915 646.25864 407.5 644.0495 407.5 L 594.5495 407.5 C 592.34036 407.5 590.5495 405.70915 590.5495 403.5 L 590.5495 389.5 C 590.5495 387.29086 592.34036 385.5 594.5495 385.5 Z" fill="white"/>
+        <path d="M 594.5495 385.5 L 644.0495 385.5 C 646.25864 385.5 648.0495 387.29086 648.0495 389.5 L 648.0495 403.5 C 648.0495 405.70915 646.25864 407.5 644.0495 407.5 L 594.5495 407.5 C 592.34036 407.5 590.5495 405.70915 590.5495 403.5 L 590.5495 389.5 C 590.5495 387.29086 592.34036 385.5 594.5495 385.5 Z" stroke="#cbcbcb" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" clip-path="url(#inner_stroke_clip_path)"/>
+      </g>
+      <g id="Graphic_8_shadow" filter="url(#Shadow)">
+        <path d="M 521.656 432.5 L 644.0495 432.5 C 646.25864 432.5 648.0495 434.29086 648.0495 436.5 L 648.0495 450.5 C 648.0495 452.70915 646.25864 454.5 644.0495 454.5 L 521.656 454.5 C 519.44686 454.5 517.656 452.70915 517.656 450.5 L 517.656 436.5 C 517.656 434.29086 519.44686 432.5 521.656 432.5 Z" fill="white"/>
+        <path d="M 521.656 432.5 L 644.0495 432.5 C 646.25864 432.5 648.0495 434.29086 648.0495 436.5 L 648.0495 450.5 C 648.0495 452.70915 646.25864 454.5 644.0495 454.5 L 521.656 454.5 C 519.44686 454.5 517.656 452.70915 517.656 450.5 L 517.656 436.5 C 517.656 434.29086 519.44686 432.5 521.656 432.5 Z" stroke="#cbcbcb" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" clip-path="url(#inner_stroke_clip_path_2)"/>
+      </g>
+      <g id="Graphic_12">
+        <rect x="324" y="275.5" width="340.5" height="300.5" fill="white"/>
+        <rect x="324" y="275.5" width="340.5" height="300.5" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_2">
+        <title>text field populated</title>
+        <path d="M 358 385.5 L 446.844 385.5 C 452.36685 385.5 456.844 389.97715 456.844 395.5 L 456.844 397.5 C 456.844 403.02286 452.36685 407.5 446.844 407.5 L 358 407.5 C 352.47715 407.5 348 403.02286 348 397.5 L 348 395.5 C 348 389.97715 352.47715 385.5 358 385.5 Z" fill="white"/>
+        <path d="M 358 385.5 L 446.844 385.5 C 452.36685 385.5 456.844 389.97715 456.844 395.5 L 456.844 397.5 C 456.844 403.02286 452.36685 407.5 446.844 407.5 L 358 407.5 C 352.47715 407.5 348 403.02286 348 397.5 L 348 395.5 C 348 389.97715 352.47715 385.5 358 385.5 Z" stroke="#b1b1b1" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" clip-path="url(#inner_stroke_clip_path_3)"/>
+        <text transform="translate(358 388.818)" fill="#252525">
+          <tspan font-family="Helvetica Neue" font-size="13" fill="#252525" x="0" y="12">2022-07-06</tspan>
+        </text>
+      </g>
+      <g id="Graphic_3">
+        <text transform="translate(353 308)" fill="black">
+          <tspan font-family="Hiragino Sans" font-size="12" fill="black" x="0" y="11">回収を依頼します。回収に来て欲しい日付を設定して</tspan>
+          <tspan font-family="Hiragino Sans" font-size="12" fill="black" x="0" y="29.000012">下さい。日付は候補日として複数登録する事ができま</tspan>
+          <tspan font-family="Hiragino Sans" font-size="12" fill="black" x="0" y="47.000024">す。</tspan>
+        </text>
+      </g>
+      <g id="Graphic_7">
+        <title>push button 2</title>
+        <path d="M 594.5495 385.5 L 644.0495 385.5 C 646.25864 385.5 648.0495 387.29086 648.0495 389.5 L 648.0495 403.5 C 648.0495 405.70915 646.25864 407.5 644.0495 407.5 L 594.5495 407.5 C 592.34036 407.5 590.5495 405.70915 590.5495 403.5 L 590.5495 389.5 C 590.5495 387.29086 592.34036 385.5 594.5495 385.5 Z" fill="white"/>
+        <path d="M 594.5495 385.5 L 644.0495 385.5 C 646.25864 385.5 648.0495 387.29086 648.0495 389.5 L 648.0495 403.5 C 648.0495 405.70915 646.25864 407.5 644.0495 407.5 L 594.5495 407.5 C 592.34036 407.5 590.5495 405.70915 590.5495 403.5 L 590.5495 389.5 C 590.5495 387.29086 592.34036 385.5 594.5495 385.5 Z" stroke="#cbcbcb" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" clip-path="url(#inner_stroke_clip_path)"/>
+        <text transform="translate(602.5495 389.7)" fill="black">
+          <tspan font-family="Hiragino Sans" font-size="12" fill="black" x="4.75" y="11">追加</tspan>
+        </text>
+      </g>
+      <g id="Graphic_8">
+        <title>push button 2</title>
+        <path d="M 521.656 432.5 L 644.0495 432.5 C 646.25864 432.5 648.0495 434.29086 648.0495 436.5 L 648.0495 450.5 C 648.0495 452.70915 646.25864 454.5 644.0495 454.5 L 521.656 454.5 C 519.44686 454.5 517.656 452.70915 517.656 450.5 L 517.656 436.5 C 517.656 434.29086 519.44686 432.5 521.656 432.5 Z" fill="white"/>
+        <path d="M 521.656 432.5 L 644.0495 432.5 C 646.25864 432.5 648.0495 434.29086 648.0495 436.5 L 648.0495 450.5 C 648.0495 452.70915 646.25864 454.5 644.0495 454.5 L 521.656 454.5 C 519.44686 454.5 517.656 452.70915 517.656 450.5 L 517.656 436.5 C 517.656 434.29086 519.44686 432.5 521.656 432.5 Z" stroke="#cbcbcb" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" clip-path="url(#inner_stroke_clip_path_2)"/>
+        <text transform="translate(529.656 436.7)" fill="black">
+          <tspan font-family="Hiragino Sans" font-size="12" fill="black" x="29.19675" y="11">依頼する</tspan>
+        </text>
+      </g>
+      <g id="Graphic_9">
+        <text transform="translate(353 482.5)" fill="black">
+          <tspan font-family="Hiragino Sans" font-size="12" fill="black" x="0" y="11">回収の依頼が完了しました。</tspan>
+        </text>
+      </g>
+      <g id="Graphic_10">
+        <text transform="translate(353 516.818)" fill="black">
+          <tspan font-family="Hiragino Sans" font-size="12" fill="black" x="0" y="11">回収の依頼が失敗しました。時間をおいて再度試</tspan>
+          <tspan font-family="Hiragino Sans" font-size="12" fill="black" x="0" y="29.000012">してください。</tspan>
+        </text>
+      </g>
+      <g id="Graphic_11">
+        <text transform="translate(722.5 482.5)" fill="black">
+          <tspan font-family="Hiragino Sans" font-size="12" fill="black" x="0" y="11">成功した場合のみ表示される</tspan>
+        </text>
+      </g>
+      <g id="Line_13">
+        <line x1="717.5" y1="491.5" x2="640.9" y2="491.5" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_14">
+        <text transform="translate(722.5 525.818)" fill="black">
+          <tspan font-family="Hiragino Sans" font-size="12" fill="black" x="0" y="11">失敗した場合のみ表示される</tspan>
+        </text>
+      </g>
+      <g id="Line_15">
+        <line x1="717.5" y1="534.818" x2="640.9" y2="534.818" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_18">
+        <text transform="translate(722.5 351.5)" fill="black">
+          <tspan font-family="Hiragino Sans" font-size="12" fill="black" x="0" y="11">日付は v-tip を使って表示し、×の表示には close </tspan>
+          <tspan font-family="Hiragino Sans" font-size="12" fill="black" x="0" y="29.000012">プロパティを利用してください。</tspan>
+        </text>
+      </g>
+      <g id="Graphic_19">
+        <text transform="translate(434.5 387)" fill="black">
+          <tspan font-family="HackGen" font-size="16" fill="black" x="47961635e-20" y="15">×</tspan>
+        </text>
+      </g>
+      <g id="Graphic_21">
+        <title>text field populated</title>
+        <path d="M 479.27475 385.5 L 568.11875 385.5 C 573.6416 385.5 578.11875 389.97715 578.11875 395.5 L 578.11875 397.5 C 578.11875 403.02286 573.6416 407.5 568.11875 407.5 L 479.27475 407.5 C 473.7519 407.5 469.27475 403.02286 469.27475 397.5 L 469.27475 395.5 C 469.27475 389.97715 473.7519 385.5 479.27475 385.5 Z" fill="white"/>
+        <path d="M 479.27475 385.5 L 568.11875 385.5 C 573.6416 385.5 578.11875 389.97715 578.11875 395.5 L 578.11875 397.5 C 578.11875 403.02286 573.6416 407.5 568.11875 407.5 L 479.27475 407.5 C 473.7519 407.5 469.27475 403.02286 469.27475 397.5 L 469.27475 395.5 C 469.27475 389.97715 473.7519 385.5 479.27475 385.5 Z" stroke="#b1b1b1" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" clip-path="url(#inner_stroke_clip_path_6)"/>
+        <text transform="translate(479.27475 388.818)" fill="#252525">
+          <tspan font-family="Helvetica Neue" font-size="13" fill="#252525" x="0" y="12">2022-07-08</tspan>
+        </text>
+      </g>
+      <g id="Graphic_20">
+        <text transform="translate(555.77475 387)" fill="black">
+          <tspan font-family="HackGen" font-size="16" fill="black" x="47961635e-20" y="15">×</tspan>
+        </text>
+      </g>
+      <g id="Line_22">
+        <path d="M 717.5 369.5 L 597 369.5 L 585.7388 378.84014" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+    </g>
+  </g>
+</svg>
