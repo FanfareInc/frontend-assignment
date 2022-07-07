@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xl="http://www.w3.org/1999/xlink" viewBox="313.5 265 697 321.5" width="697" height="321.5">
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xl="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="313.5 265 697 321.5" width="697" height="321.5">
   <defs>
     <filter id="Shadow" filterUnits="userSpaceOnUse" x="243.8" y="232.85">
       <feGaussianBlur in="SourceAlpha" result="blur" stdDeviation="1.308"/>
@@ -25,7 +25,7 @@
       <path d="M 479.27475 385.5 L 568.11875 385.5 C 573.6416 385.5 578.11875 389.97715 578.11875 395.5 L 578.11875 397.5 C 578.11875 403.02286 573.6416 407.5 568.11875 407.5 L 479.27475 407.5 C 473.7519 407.5 469.27475 403.02286 469.27475 397.5 L 469.27475 395.5 C 469.27475 389.97715 473.7519 385.5 479.27475 385.5 Z"/>
     </clipPath>
   </defs>
-  <g id="キャンバス______1" fill-opacity="1" stroke="none" stroke-opacity="1" stroke-dasharray="none" fill="none">
+  <g id="キャンバス______1" stroke="none" stroke-opacity="1" fill="none" stroke-dasharray="none" fill-opacity="1">
     <title>キャンバス 1</title>
     <rect fill="white" x="313.5" y="265" width="697" height="321.5"/>
     <g id="キャンバス______1_レイヤー_1">
@@ -79,9 +79,9 @@
         </text>
       </g>
       <g id="Graphic_10">
-        <text transform="translate(353 516.818)" fill="black">
-          <tspan font-family="Hiragino Sans" font-size="12" fill="black" x="0" y="11">回収の依頼が失敗しました。時間をおいて再度試</tspan>
-          <tspan font-family="Hiragino Sans" font-size="12" fill="black" x="0" y="29.000012">してください。</tspan>
+        <text transform="translate(353 516.818)" fill="#ff2600">
+          <tspan font-family="Hiragino Sans" font-size="12" fill="#ff2600" x="0" y="11">回収の依頼が失敗しました。時間をおいて再度試</tspan>
+          <tspan font-family="Hiragino Sans" font-size="12" fill="#ff2600" x="0" y="29.000012">してください。</tspan>
         </text>
       </g>
       <g id="Graphic_11">
@@ -93,17 +93,18 @@
         <line x1="717.5" y1="491.5" x2="640.9" y2="491.5" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
       </g>
       <g id="Graphic_14">
-        <text transform="translate(722.5 525.818)" fill="black">
+        <text transform="translate(722.5 516.818)" fill="black">
           <tspan font-family="Hiragino Sans" font-size="12" fill="black" x="0" y="11">失敗した場合のみ表示される</tspan>
+          <tspan font-family="Hiragino Sans" font-size="12" fill="black" x="0" y="29.000012">色は指定の赤にする</tspan>
         </text>
       </g>
       <g id="Line_15">
         <line x1="717.5" y1="534.818" x2="640.9" y2="534.818" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
       </g>
       <g id="Graphic_18">
-        <text transform="translate(722.5 351.5)" fill="black">
+        <text transform="translate(722.5 338.5)" fill="black">
           <tspan font-family="Hiragino Sans" font-size="12" fill="black" x="0" y="11">日付は v-tip を使って表示し、×の表示には close </tspan>
-          <tspan font-family="Hiragino Sans" font-size="12" fill="black" x="0" y="29.000012">プロパティを利用してください。</tspan>
+          <tspan font-family="Hiragino Sans" font-size="12" fill="black" x="0" y="29.000012">プロパティを利用してください</tspan>
         </text>
       </g>
       <g id="Graphic_19">
@@ -124,8 +125,19 @@
           <tspan font-family="HackGen" font-size="16" fill="black" x="47961635e-20" y="15">×</tspan>
         </text>
       </g>
+      <g id="Graphic_23">
+        <path d="M 338.02475 375 L 658 375 L 658 418 L 338.02475 418 Z" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4.0,4.0" stroke-width="1"/>
+      </g>
       <g id="Line_22">
-        <path d="M 717.5 369.5 L 597 369.5 L 585.7388 378.84014" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <path d="M 717.5 356.5 L 596 356.5 L 582.0162 374.22724" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_24">
+        <text transform="translate(722.5 390.5)" fill="black">
+          <tspan font-family="Hiragino Sans" font-size="12" fill="black" x="0" y="11">コンポーネントとして切り出して下さい</tspan>
+        </text>
+      </g>
+      <g id="Line_25">
+        <line x1="717.5" y1="398.32406" x2="667.89966" y2="397.91186" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
       </g>
     </g>
   </g>
