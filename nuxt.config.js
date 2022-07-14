@@ -12,7 +12,7 @@ export default {
     titleTemplate: '%s - frontend-assignment',
     title: 'frontend-assignment',
     htmlAttrs: {
-      lang: 'en',
+      lang: 'ja',
     },
     meta: [
       { charset: 'utf-8' },
