@@ -12,11 +12,9 @@
 
 ### 環境をセットアップする
 
-手続きを簡略化するため、オンラインの開発環境で取り組んで頂きます。具体的には、[CodeSandbox](https://codesandbox.io/) で実装して下さい。
+手続きを簡略化するため、オンラインの開発環境で取り組んで頂きます。具体的には、[StackBlitz](https://stackblitz.com/) で実装して下さい。
 
-ベースとなるコードはこのリポジトリのコードになりますので、[CodeSandbox](https://codesandbox.io/) の画面で `Create Sandbox` から `Import Project` を選択し、GitHub Repository URL の欄に `https://github.com/FanfareInc/frontend-assignment` を入力し、 `Import and Fork` をクリックしてプロジェクトをインポートして下さい。
-
-インポートが成功すると、画面右側に画面が表示されているはずです。確認できたら、実装のフェーズに進んで下さい。
+[https://stackblitz.com/github/FanfareInc/frontend-assignment](https://stackblitz.com/github/FanfareInc/frontend-assignment) にアクセスすると自動的にこのリポジトリからインポートされて開発環境が立ち上がりますので、そこで実装して下さい。 インポートが成功すると、画面右側に画面が表示されているはずです。確認できたら、実装のフェーズに進んで下さい。
 
 ### 実装する
 
@@ -90,6 +88,6 @@
 
 ### 送信する
 
-CodeSandbox の URL をお送り頂きます。`Share` ボタンから `Copy Sandbox Link` をクリックして URL をコピーし、以下のフォームからお送り下さい。なお、記述式の事前課題とセットになっています。
+StackBlitz の URL をお送り頂きます。`Share` ボタンから `Copy URL` をクリックして URL をコピーし（Visibility は `Public` もしくは `Secret` でお願いします）、以下のフォームからお送り下さい。なお、記述式の事前課題とセットになっています。
 
 [https://forms.gle/2sAP9KEdn6TJrmm49](https://forms.gle/2sAP9KEdn6TJrmm49)
