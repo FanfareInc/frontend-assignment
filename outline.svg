@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xl="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="313.5 265 697 321.5" width="697" height="321.5">
+<svg xmlns:xl="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="313.5 265 697 321.5" width="697" height="321.5">
   <defs>
     <filter id="Shadow" filterUnits="userSpaceOnUse" x="243.8" y="232.85">
       <feGaussianBlur in="SourceAlpha" result="blur" stdDeviation="1.308"/>
@@ -25,7 +25,7 @@
       <path d="M 479.27475 385.5 L 568.11875 385.5 C 573.6416 385.5 578.11875 389.97715 578.11875 395.5 L 578.11875 397.5 C 578.11875 403.02286 573.6416 407.5 568.11875 407.5 L 479.27475 407.5 C 473.7519 407.5 469.27475 403.02286 469.27475 397.5 L 469.27475 395.5 C 469.27475 389.97715 473.7519 385.5 479.27475 385.5 Z"/>
     </clipPath>
   </defs>
-  <g id="キャンバス______1" stroke="none" stroke-opacity="1" fill="none" stroke-dasharray="none" fill-opacity="1">
+  <g id="キャンバス______1" fill-opacity="1" stroke-opacity="1" stroke-dasharray="none" fill="none" stroke="none">
     <title>キャンバス 1</title>
     <rect fill="white" x="313.5" y="265" width="697" height="321.5"/>
     <g id="キャンバス______1_レイヤー_1">
@@ -103,8 +103,8 @@
       </g>
       <g id="Graphic_18">
         <text transform="translate(722.5 338.5)" fill="black">
-          <tspan font-family="Hiragino Sans" font-size="12" fill="black" x="0" y="11">日付は v-tip を使って表示し、×の表示には close </tspan>
-          <tspan font-family="Hiragino Sans" font-size="12" fill="black" x="0" y="29.000012">プロパティを利用してください</tspan>
+          <tspan font-family="Hiragino Sans" font-size="12" fill="black" x="0" y="11">日付は v-chip を使って表示し、×の表示には </tspan>
+          <tspan font-family="Hiragino Sans" font-size="12" fill="black" x="0" y="29.000012">close プロパティを利用してください</tspan>
         </text>
       </g>
       <g id="Graphic_19">
